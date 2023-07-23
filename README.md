@@ -1,5 +1,5 @@
 # Assembling Robot Parts
-A first task of the Mechanical Department is to assemble robot parts and edit them if necessary./
+The first task of the Mechanical Department is to assemble robot parts and edit them if necessary.
 
 ## 1 . Importing the base part of the robot
 <kbd>![image](https://github.com/Rawnaa-19/Assembling-Robot-Parts/assets/106926557/69221ffc-78d1-49d7-9249-11c7a73c913e)</kbd>
